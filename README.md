@@ -14,7 +14,7 @@
 [<img align="left" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40px"/>](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [<img align="left" src="https://devicon.dev/devicon.git/icons/c/c-original.svg" alt="c++" width="40px"/>](https://isocpp.org/)
 [<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40px"/>](https://www.linux.org/)
-[<img align="left" src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg alt="windows10" width="40px"/>](https://www.microsoft.com/fr-fr/windows/)
+[<img align="left" src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" alt="windows10" width="40px"/>](https://www.microsoft.com/fr-fr/windows/)
 <br><br>
 
 ---
