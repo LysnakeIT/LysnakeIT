@@ -9,7 +9,7 @@
 [<img align="left" src="https://cdn3.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-twitch-circle-512.png" alt="LysnakeIT" width="37px"/>](https://www.twitch.tv/lysnakeit)
 <br>
 
-### Langages et outils:
+### Langages et outils :
 [<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40px"/>](https://www.java.com)
 [<img align="left" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40px"/>](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [<img align="left" src="https://devicon.dev/devicon.git/icons/c/c-original.svg" alt="c++" width="40px"/>](https://isocpp.org/)
