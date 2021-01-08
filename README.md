@@ -10,7 +10,7 @@
 <br>
 
 ### Langages et outils :
-[<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40px"/>](https://www.java.com)
+[<img align="left" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="java" width="40px"/>](https://www.java.com)
 [<img align="left" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40px"/>](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [<img align="left" src="https://devicon.dev/devicon.git/icons/c/c-original.svg" alt="c++" width="40px"/>](https://isocpp.org/)
 [<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40px"/>](https://www.linux.org/)
