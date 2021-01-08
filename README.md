@@ -10,10 +10,10 @@
 <br>
 
 ### Langages et outils :
-[<img align="left" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="java" width="40px"/>](https://www.java.com)
+[<img align="left" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="java" width="80px"/>](https://www.java.com)
 [<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40px"/>](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [<img align="left" src="https://or-formation.com/uploads/img/produits/52.png" alt="c++" width="40px"/>](https://isocpp.org/)
-[<img align="left" src="https://logo-marque.com/wp-content/uploads/2020/09/Linux-Logo.png" alt="linux" width="60px"/>](https://www.linux.org/)
+[<img align="left" src="https://logo-marque.com/wp-content/uploads/2020/09/Linux-Logo.png" alt="linux" width="80px"/>](https://www.linux.org/)
 [<img align="left" src="https://www.laptopspirit.fr/wp-content/uploads/new/2019/11/logo-Windows-HD.png" alt="windows10" width="40px"/>](https://www.microsoft.com/fr-fr/windows/)
 <br><br>
 
