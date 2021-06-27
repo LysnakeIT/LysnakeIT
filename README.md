@@ -21,6 +21,6 @@
 
 <details>
     <summary>GitHub Stats</summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lysnakeit&show_icons=true&locale=en&layout=compact&card_width=445&langs_count=10&hide_borders=false" alt="lysnakeit"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lysnakeit&show_icons=true&locale=en&layout=compact&card_width=445&langs_count=10&hide_borders=true" alt="lysnakeit"/>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=lysnakeit&show_icons=true&locale=en&include_all_commits=true&hide_borders=true" alt="lysnakeit"/>
 </details>
