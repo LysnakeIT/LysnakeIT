@@ -1,15 +1,8 @@
 # Salut 👋, moi c'est Lysnake
 
-### Je suis étudiant en première année d'informatique
+### Je suis étudiant en deuxième année d'informatique
 
-### Mes réseaux : 
-[<img align="left" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="Lysnake#0001" width="40px"/>](Lysnake#0001)
-[<img align="left" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" alt="@LysnakeYT" width="40px"/>](https://twitter.com/lysnakeyt)
-[<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" alt="Lysnake" width="37px"/>](https://steamcommunity.com/id/Lysnake/)
-[<img align="left" src="https://cdn3.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-twitch-circle-512.png" alt="LysnakeIT" width="37px"/>](https://www.twitch.tv/lysnakeit)
-<br>
-
-### Langages et outils :
+### 🔨 Langages et outils :
 [<img align="left" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="java" width="80px"/>](https://www.java.com)
 [<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="45px"/>](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [<img align="left" src="https://or-formation.com/uploads/img/produits/52.png" alt="c++" width="50px"/>](https://isocpp.org/)
@@ -20,7 +13,43 @@
 ---
 
 <details>
-    <summary>GitHub Stats</summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lysnakeit&show_icons=true&locale=en&layout=compact&card_width=445&langs_count=10&hide_borders=false" alt="lysnakeit"/>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=lysnakeit&show_icons=true&locale=en&include_all_commits=true&hide_borders=true" alt="lysnakeit"/>
+<summary> Se coonecter avec moi : </summary>  
+
+<br/>
+
+<a href="https://discord.com/users/337210490453229579">
+  <img align="left" alt="Discord" width="22px" src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/discord.svg" />
+</a>
+
+<a href="https://github.com/LysnakeIT">
+  <img align="left" alt="Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+</a>
+
+<a href="https://www.instagram.com/lilian.damien/">
+  <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+</a>
+
+<a href="https://twitter.com/lysnakeyt">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+</a>
+
+<br/>
+
 </details>
+
+---
+### Mes Projets :
+  
+<a href="https://github.com/LysnakeIT/Kroma-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Kroma-bot&theme=dracula" />
+</a>
+
+<a href="https://github.com/LysnakeIT/Les-Batisseurs-Moyen-Age">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Les-Batisseurs-Moyen-Age&theme=dracula" />
+</a>
+
+### ✔ Github Activité :
+<a href="https://github.com/LysnakeIT">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lysnakeit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lysnakeit&layout=compact&langs_count=16&theme=dracula"/>
+</a>
