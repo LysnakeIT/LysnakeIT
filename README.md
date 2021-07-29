@@ -13,7 +13,7 @@
 ---
 
 <details>
-<summary> Se coonecter avec moi : </summary>  
+<summary> Se connecter avec moi : </summary>  
 
 <br/>
 
@@ -45,7 +45,7 @@
 </a>
 
 <a href="https://github.com/LysnakeIT/Les-Batisseurs-Moyen-Age">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Les-Batisseurs-Moyen-Age&theme=dracula" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Les-Batisseurs-Moyen-Age&theme=dracula" />
 </a>
 
 ### ✔ Github Activité :
