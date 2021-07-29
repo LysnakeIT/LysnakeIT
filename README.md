@@ -1,4 +1,4 @@
-# Salut 👋, moi c'est Lysnake.
+# Salut 👋, moi c'est Lysnake
 
 ### Je suis étudiant en deuxième année d'informatique
 
