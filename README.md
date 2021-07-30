@@ -40,8 +40,8 @@
 ---
 ### Mes Projets :
   
-<a href="https://github.com/LysnakeIT/Kroma-bo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Kroma-bo&theme=dracula" />
+<a href="https://github.com/LysnakeIT/Kroma-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Kroma-bot&theme=dracula" />
 </a>
 
 <a href="https://github.com/LysnakeIT/Les-Batisseurs-Moyen-Age">
