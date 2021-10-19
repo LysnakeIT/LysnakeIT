@@ -51,5 +51,5 @@
 ### ✔ Github Activité :
 <a href="https://github.com/LysnakeIT">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lysnakeit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lysnakeit&layout=compact&langs_count=100&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lysnakeit&layout=compact&langs_count=100&theme=dracul"/>
 </a>
