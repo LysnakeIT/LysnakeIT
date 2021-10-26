@@ -49,7 +49,7 @@
 </a>
 
 <a href="https://github.com/LysnakeIT/SportTrack">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=SportTrack&theme=dracul" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=SportTrack" />
 </a>
 
 ### ✔ Github Activité :
