@@ -18,13 +18,13 @@ Loisirs: Gaming
 Discord: Lysnake#9753
 ```
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="#44475A" src="https://via.placeholder.com/15/44475A/000000?text=+" width="25" height="20" /><img alt="#FF5555" src="https://via.placeholder.com/15/FF5555/000000?text=+" width="25" height="20" /><img alt="#50FA7B" src="https://via.placeholder.com/15/50FA7B/000000?text=+" width="25" height="20" /><img alt="#FFB86C" src="https://via.placeholder.com/15/FFB86C/000000?text=+" width="25" height="20" /><img alt="#8BE9FD" src="https://via.placeholder.com/15/8BE9FD/000000?text=+" width="25" height="20" /><img alt="BD93F9" src="https://via.placeholder.com/15/BD93F9/000000?text=+" width="25" height="20" /><img alt="FF79C6" src="https://via.placeholder.com/15/FF79C6/000000?text=+" width="25" height="20" /><img alt="94A3A5" src="https://via.placeholder.com/15/94A3A5/000000?text=+" width="25" height="20" />
 </p>
 
 ## Mes réseaux <img src="https://media2.giphy.com/media/5hmJposf0ESMw2fCBL/giphy.gif?cid=790b7611c30984f71a15f0aebfdd69ad85100bceb6200be6&rid=giphy.gif&ct=s" width="20px"/>
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 	<a href="https://github.com/LysnakeIT"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
     <a href="https://twitter.com/lysnakeyt"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 	<a href="https://www.instagram.com/lilian.damien/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
