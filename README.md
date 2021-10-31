@@ -64,7 +64,7 @@ Discord: Lysnake#9753
 </a>
 
 <a href="https://github.com/LysnakeIT/Les-Batisseurs-Moyen-Age">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Les-Batisseurs-Moyen-Age&theme=dracula" width="428"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Les-Batisseurs-Moyen-Age&theme=dracula" width="400"/>
 </a>
 
 <a href="https://github.com/LysnakeIT/SportTrack">
