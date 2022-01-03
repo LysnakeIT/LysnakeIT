@@ -4,7 +4,7 @@
 ```bash
 > neofetch
 ```
-<img align="left" src="https://cdn.discordapp.com/avatars/337210490453229579/8db77810a0551f423f7f028f94874eb8.png?size=600" alt="LysnakeIT" width="191" /> 
+<img align="left" src="https://cdn.discordapp.com/avatars/337210490453229579/f3399a0a069c2465cc0857c9213e3958.png?size=600" alt="LysnakeIT" width="191" /> 
 
 ```csharp
 lysnakeit@github
