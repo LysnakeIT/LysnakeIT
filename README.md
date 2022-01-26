@@ -26,7 +26,7 @@ Discord: Lysnake#9753
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 	<a href="https://github.com/LysnakeIT"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-    <a href="https://twitter.com/lysnakeyt"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+    <a href="https://twitter.com/lysnake_"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 	<a href="https://www.instagram.com/lilian.damien/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://discord.com/users/337210490453229579"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a>
     <a href="https://www.twitch.tv/lysnakeit"><img src="https://img.icons8.com/bubbles/50/000000/twitch.png" alt="Twitch"/></a>
