@@ -76,7 +76,7 @@ Discord: Lysnake#9753
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Convertisseur&theme=dracula" width="400"/>
 </a>
 
-<a href="https://github.com/LysnakeIT/Convertisseur">
+<a href="https://github.com/LysnakeIT/Todo-App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Todo-App&theme=dracula" width="400"/>
 </a>
 
