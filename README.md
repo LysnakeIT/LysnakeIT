@@ -80,8 +80,12 @@ Discord: Lysnake#9753
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Todo-App&theme=dracula" width="400"/>
 </a>
 
+<a href="https://github.com/LysnakeIT/Website">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Website&theme=dracula" width="400"/>
+</a>
+
 ## ✔ Github Activité :
 <a href="https://github.com/LysnakeIT">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lysnakeit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lysnakeit&layout=compact&langs_count=20&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lysnakeit&layout=compact&langs_count=6&theme=dracula"/>
 </a>
