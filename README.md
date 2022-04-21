@@ -81,7 +81,7 @@ Discord: Lysnake#9753
 </a>
 
 <a href="https://github.com/LysnakeIT/Website">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Website" width="400"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Website&theme=dracula" width="400"/>
 </a>
 
 ## ✔ Github Activité :
