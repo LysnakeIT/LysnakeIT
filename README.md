@@ -19,7 +19,6 @@ Discord: Lysnake#9753
 ```
 
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="#44475A" src="https://via.placeholder.com/15/44475A/000000.png?text=+" width="25" height="20" /><img alt="#FF5555" src="https://via.placeholder.com/15/FF5555/000000.png?text=+" width="25" height="20" /><img alt="#50FA7B" src="https://via.placeholder.com/15/50FA7B/000000.png?text=+" width="25" height="20" /><img alt="#FFB86C" src="https://via.placeholder.com/15/FFB86C/000000.png?text=+" width="25" height="20" /><img alt="#8BE9FD" src="https://via.placeholder.com/15/8BE9FD/000000.png?text=+" width="25" height="20" /><img alt="BD93F9" src="https://via.placeholder.com/15/BD93F9/000000.png?text=+" width="25" height="20" /><img alt="FF79C6" src="https://via.placeholder.com/15/FF79C6/000000.png?text=+" width="25" height="20" /><img alt="94A3A5" src="https://via.placeholder.com/15/94A3A5/000000.png?text=+" width="25" height="20" />
 </p>
 
