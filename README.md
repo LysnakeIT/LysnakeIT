@@ -61,35 +61,35 @@ Discord: Lysnake#9753
 ## Mes Projets :
   
 <a href="https://github.com/LysnakeIT/Kroma-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Kroma-bot&theme=dracula" width="400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Kroma-bot&theme=tokyonight" width="400"/>
 </a>
 
 <a href="https://github.com/LysnakeIT/Les-Batisseurs-Moyen-Age">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Les-Batisseurs-Moyen-Age&theme=dracula" width="400"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Les-Batisseurs-Moyen-Age&theme=tokyonight" width="400"/>
 </a>
 
 <a href="https://github.com/LysnakeIT/SportTrack">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=SportTrack&theme=dracula" width="400"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=SportTrack&theme=tokyonight" width="400"/>
 </a>
 
 <a href="https://github.com/LysnakeIT/Convertisseur">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Convertisseur&theme=dracula" width="400"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Convertisseur&theme=tokyonight" width="400"/>
 </a>
 
 <a href="https://github.com/LysnakeIT/Todo-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Todo-App&theme=dracula" width="400"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Todo-App&theme=tokyonight" width="400"/>
 </a>
 
 <a href="https://github.com/LysnakeIT/Website">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Website&theme=dracula" width="400"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Website&theme=tokyonight" width="400"/>
 </a>
 
 <a href="https://github.com/LysnakeIT/WeatherApp">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=WeatherApp&theme=dracula" width="400"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=WeatherApp&theme=tokyonight" width="400"/>
 </a>
 
 ## ✔ Github Activité :
 <a href="https://github.com/LysnakeIT">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lysnakeit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lysnakeit&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lysnakeit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lysnakeit&layout=compact&langs_count=7&theme=tokyonight"/>
 </a>
