@@ -11,7 +11,6 @@ lysnakeit@github
 -------------------------
 OS: Red Hat x64
 Shell: bash
-Theme: Dracula Green
 Theme: Tokyo Night Storm
 Localisation: Vannes, FR
 Travaille: IUT Vannes 2 ème année D.U.T Informatique
