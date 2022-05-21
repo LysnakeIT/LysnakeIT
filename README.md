@@ -4,7 +4,7 @@
 ```bash
 > neofetch
 ```
-<img align="left" src="https://avatars.githubusercontent.com/u/73485512?s=400&u=5dbfc176bf6ce5cfffd4ca2eb0cb76337cec98f4&v=4" alt="LysnakeIT" width="191" /> 
+<img align="left" src="https://avatars.githubusercontent.com/u/73485512?s=400&u=5dbfc176bf6ce5cfffd4ca2eb0cb76337cec98f4&v=4" alt="LysnakeIT" width="210" /> 
 
 ```csharp
 lysnakeit@github
@@ -18,7 +18,7 @@ Loisirs: Gaming
 Discord: Lysnake#9753
 ```
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="1F2335" src="https://via.placeholder.com/15x15/3B4261/969696.png?text=+" width="25" height="20" /><img alt="F7768E" src="https://via.placeholder.com/15x15/F7768E/969696.png?text=+" width="25" height="20" /><img alt="73DACA" src="https://via.placeholder.com/15x15/73DACA/969696.png?text=+" width="25" height="20" /><img alt="E0AF68" src="https://via.placeholder.com/15x15/E0AF68/969696.png?text=+" width="25" height="20" /><img alt="#7AA2F7" src="https://via.placeholder.com/15x15/7AA2F7/969696.png?text=+" width="25" height="20" /><img alt="BB9AF7" src="https://via.placeholder.com/15x15/BB9AF7/969696.png?text=+" width="25" height="20" /><img alt="7982A9" src="https://via.placeholder.com/15x15/7982A9/969696.png?text=+" width="25" height="20" /><img alt="1F2335" src="https://via.placeholder.com/15x15/1F2335/969696.png?text=+" width="25" height="20" />
 </p>
 
@@ -26,19 +26,19 @@ Discord: Lysnake#9753
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 	<a href="https://github.com/LysnakeIT"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-    <a href="https://twitter.com/lysnake_"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://twitter.com/lysnake_"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 	<a href="https://www.instagram.com/lilian.damien/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://discord.com/users/337210490453229579"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a>
-    <a href="https://www.twitch.tv/lysnakeit"><img src="https://img.icons8.com/bubbles/50/000000/twitch.png" alt="Twitch"/></a>
-    <a href="https://steamcommunity.com/profiles/76561198306291004"><img src="https://img.icons8.com/bubbles/50/000000/steam.png" alt="Steam"/></a>
+	<a href="https://discord.com/users/337210490453229579"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a
+	<a href="https://www.twitch.tv/lysnakeit"><img src="https://img.icons8.com/bubbles/50/000000/twitch.png" alt="Twitch"/></a>
+    	<a href="https://steamcommunity.com/profiles/76561198306291004"><img src="https://img.icons8.com/bubbles/50/000000/steam.png" alt="Steam"/></a>
 </p>
 
 ---
-<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ## Spotify Playing 🎧
 
 [![Spotify](https://novatorem-lysnakeit.vercel.app/api/spotify)](https://open.spotify.com/user/21r3ef6mdhlqwbbwutoh6sxmi)
+<img alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
 ---
 ## Langages et outils 
