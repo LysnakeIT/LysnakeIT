@@ -18,7 +18,7 @@ Loisirs: Gaming
 Discord: Lysnake#9753
 ```
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="1F2335" src="https://via.placeholder.com/15x15/3B4261/969696.png?text=+" width="25" height="20" /><img alt="F7768E" src="https://via.placeholder.com/15x15/F7768E/969696.png?text=+" width="25" height="20" /><img alt="73DACA" src="https://via.placeholder.com/15x15/73DACA/969696.png?text=+" width="25" height="20" /><img alt="E0AF68" src="https://via.placeholder.com/15x15/E0AF68/969696.png?text=+" width="25" height="20" /><img alt="#7AA2F7" src="https://via.placeholder.com/15x15/7AA2F7/969696.png?text=+" width="25" height="20" /><img alt="BB9AF7" src="https://via.placeholder.com/15x15/BB9AF7/969696.png?text=+" width="25" height="20" /><img alt="7982A9" src="https://via.placeholder.com/15x15/7982A9/969696.png?text=+" width="25" height="20" /><img alt="1F2335" src="https://via.placeholder.com/15x15/1F2335/969696.png?text=+" width="25" height="20" />
 </p>
 
