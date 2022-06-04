@@ -1,4 +1,4 @@
-# Salut ! Moi c'est [Lilian a.k.a Lysnake](https://github.com/lysnakeit) <img src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" width="25px"/>
+# Salut ! Moi c'est [Lilian a.k.a Lysnake](https://github.com/lysnakeit) <img src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" width="25px" height="25px"/>
 
 ---
 ```bash
@@ -22,7 +22,7 @@ Discord: Lysnake#9753
 <img alt="3B4261" src="https://via.placeholder.com/15x15/3B4261/969696.png?text=+" width="25" height="20" /><img alt="F7768E" src="https://via.placeholder.com/15x15/F7768E/969696.png?text=+" width="25" height="20" /><img alt="38ad7f" src="https://via.placeholder.com/15x15/38ad7f/969696.png?text=+" width="25" height="20" /><img alt="E0AF68" src="https://via.placeholder.com/15x15/E0AF68/969696.png?text=+" width="25" height="20" /><img alt="#7AA2F7" src="https://via.placeholder.com/15x15/7AA2F7/969696.png?text=+" width="25" height="20" /><img alt="BB9AF7" src="https://via.placeholder.com/15x15/BB9AF7/969696.png?text=+" width="25" height="20" /><img alt="7982A9" src="https://via.placeholder.com/15x15/7982A9/969696.png?text=+" width="25" height="20" /><img alt="1F2335" src="https://via.placeholder.com/15x15/1F2335/969696.png?text=+" width="25" height="20" />
 </p>
 
-## Mes réseaux <img src="https://media2.giphy.com/media/5hmJposf0ESMw2fCBL/giphy.gif?cid=790b7611c30984f71a15f0aebfdd69ad85100bceb6200be6&rid=giphy.gif&ct=s" width="20px"/>
+## Mes réseaux <img src="https://media2.giphy.com/media/5hmJposf0ESMw2fCBL/giphy.gif?cid=790b7611c30984f71a15f0aebfdd69ad85100bceb6200be6&rid=giphy.gif&ct=s" width="20px" height="20px"/>
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 	<a href="https://github.com/LysnakeIT"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
