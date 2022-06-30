@@ -38,7 +38,7 @@ Discord: Lysnake#9753
 ## Spotify Playing 🎧
 
 [![Spotify](https://novatorem-lysnakeit.vercel.app/api/spotify)](https://open.spotify.com/user/21r3ef6mdhlqwbbwutoh6sxmi)
-<img alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/337210490453229579?theme=dark&bg=0D2438&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/337210490453229579)
 
 ---
 ## Langages et outils 
