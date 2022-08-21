@@ -12,9 +12,9 @@ lysnakeit@github
 OS: Red Hat x64
 Shell: bash
 Theme: Tokyo Night Storm
-Localisation: Vannes, FR
-Travaille: IUT Vannes 2 ème année D.U.T Informatique
-Loisirs: Gaming
+Localisation: Bordeaux, FR
+Travaille: ESAIP Ingénieur en Cybersécurité et IoT
+Loisirs: Voyage, Photographie, Cinéma
 Discord: Lysnake#9753
 ```
 
@@ -38,7 +38,6 @@ Discord: Lysnake#9753
 ## Spotify Playing 🎧
 
 [![Spotify](https://novatorem-lysnakeit.vercel.app/api/spotify)](https://open.spotify.com/user/21r3ef6mdhlqwbbwutoh6sxmi)
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/337210490453229579?theme=dark&bg=0D2438&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/337210490453229579)
 
 ---
 ## Langages et outils 
