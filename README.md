@@ -13,7 +13,7 @@ OS: Red Hat x64
 Shell: bash
 Theme: Tokyo Night Storm
 Localisation: Bordeaux, FR
-Travaille: ESAIP Ingénieur en Cybersécurité et IoT
+Travaille: ESAIP Ingénieur en Cybersécurité et IoE
 Loisirs: Voyage, Photographie, Cinéma
 Discord: Lysnake#9753
 ```
