@@ -90,8 +90,8 @@ Discord: Lysnake#9753
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Chat-custom-twitch&theme=tokyonight" width="400"/>
 </a>
 
-<a href="https://github.com/LysnakeIT/BlindQuizz">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=BlindQuizz&theme=tokyonight" width="400"/>
+<a href="https://github.com/LysnakeIT/Blind-Quiz">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lysnakeit&repo=Blind-Quiz&theme=tokyonight" width="400"/>
 </a>
 
 ## ✔ Github Activité :
