@@ -93,9 +93,9 @@ Discord: Lysnake#9753
         <h2>💻 Github activité</h2>
     </summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=LysnakeIT&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=24283b&title_color=F85D7F&icon_color=d2a8ff" height="192px"/>
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=LysnakeIT&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=24283b&title_color=F85D7F&icon_color=d2a8ff" height="140px"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LysnakeIT&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=24283b&title_color=F85D7F&icon_color=d2a8ff&hide=pug,shell,css" height="192px"/>
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LysnakeIT&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=24283b&title_color=F85D7F&icon_color=d2a8ff&hide=pug,shell,css" height="140px"/>
     </a>
 </details>
